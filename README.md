@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm from New York 🗽<br><br>
+- 🔭 I’m working as an Analyst<br>
+- 📚 I'm currently learning more about data visualization and analytics<br>
+- ⚡ In my free time I love to cook 🍳
+</p>
 
 ###
 
